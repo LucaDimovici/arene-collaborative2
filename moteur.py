@@ -13,3 +13,6 @@ def attaque_charge():
 
 def boire_potion(points: int = 30):
     return f"Soin de {points} PV"
+
+# Bug critique injecté en production
+TAUX_CRITIQUE_PAR_DEFAUT = -999.0
