@@ -1,0 +1,12 @@
+# Fichiers de logs
+*.log
+
+# Caches de bytecode Python
+__pycache__/
+*.py[cod]
+
+# Caches de tests
+.pytest_cache/
+
+# Fichiers systemes
+.DS_Store
