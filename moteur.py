@@ -10,3 +10,6 @@ def attaque_griffe():
     return "Griffe inflige 25 degats"
 def attaque_charge():
     return "Charge inflige 20 degats"
+
+def boire_potion(points: int = 30):
+    return f"Soin de {points} PV"
