@@ -1,4 +1,4 @@
-# moteur.py
+# Moteur de Combat Occitanie
 def initialiser_arene(nom: str):
     return {"nom": nom, "combattants": []}
 
