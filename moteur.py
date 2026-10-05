@@ -1,4 +1,4 @@
-# Moteur de Combat Occitanie
+# Moteur officiel occitanie-montpellier
 def initialiser_arene(nom: str):
     return {"nom": nom, "combattants": []}
 
